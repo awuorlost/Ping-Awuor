@@ -1,9 +1,7 @@
-h1 {
+.jumbotron {
+  background-color: #394963;
   text-align: center;
 }
-
-jumbotron {
-  font-family: 'Stylish', sans-serif;
-font-family: 'Cormorant Garamond', serif;
-font-family: 'Questrial', sans-serif;
-}
+body{
+  background-image: url("../Immages/background.jpg");
+  color:white;
