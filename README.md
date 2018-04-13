@@ -14,7 +14,7 @@ The aim of this website is to display a game whereby a user takes a number input
 
 ## Live Demo
 
-*link: https://mutwirivic.github.io/ping-pong*
+*link:  https://awuorlost.github.io/Ping-Awuor/*
 
 
 ## Known bugs
